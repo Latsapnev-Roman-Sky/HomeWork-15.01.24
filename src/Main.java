@@ -9,5 +9,9 @@ public class Main {
         String fullName = lastName +" "+ firstName +" "+ middleName;
         System.out.println("Ф. И. О. сотрудника - "+ fullName);
 
+        //Task 2
+
+        System.out.println("Ф. И. О. сотрудника - "+ fullName.toUpperCase());
+
     }
 }
